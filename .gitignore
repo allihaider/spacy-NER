@@ -1,2 +1,5 @@
 data/*
 notebooks/.ipynb_checkpoints/*
+output_lg/*
+output_trf/*
+results/*
